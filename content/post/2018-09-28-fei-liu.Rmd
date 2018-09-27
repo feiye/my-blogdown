@@ -1,0 +1,35 @@
+---
+title: 飞流直下三千尺
+author: 叶飞
+date: '2018-09-28'
+slug: fei-liu
+categories:
+  - Example
+  - R
+tags:
+  - plot
+  - RStudio
+---
+
+
+
+## let's plot
+
+说中文吗？ME
+
+写公式吗？
+$$
+\operatorname { Cov } ( \boldsymbol { f } ) = \mathrm { E } \boldsymbol { f } \boldsymbol { f } ^ { \prime } = \boldsymbol { I }
+$$
+
+
+Let's plot some pictures
+```{r}
+# mtcars
+# par(family='Kai')
+plot(disp~mpg, data = mtcars, family='Kai',
+     xlab = '英里/加仑',
+     main = '测试')
+```
+
+
