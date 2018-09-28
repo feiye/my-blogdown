@@ -33,3 +33,9 @@ plot(disp~mpg, data = mtcars, family='Kai',
 ```
 
 
+## 表格
+
+```{r}
+knitr::kable(mtcars)
+```
+
