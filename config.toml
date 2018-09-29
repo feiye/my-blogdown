@@ -1,9 +1,9 @@
-baseurl = "/"
+baseurl = "https://cueber.tech/"
 languageCode = "en-us"
-title = "A minimal Hugo website"
+title = "Personal Site of YE Fei"
 theme = "hugo-xmin"
-googleAnalytics = ""
-disqusShortname = ""
+googleAnalytics = "UA-126639609-1"
+disqusShortname = "yf"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
@@ -34,4 +34,4 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 -- 2018 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    footer = "&copy; [YE Fei](https://cueber.tech) 2018 -- 2019 | [Github](https://github.com/feiye)"
